@@ -1,2 +1,2 @@
-# bem-vik-kotval
+# bme-vik-kotval
 BME-VIK kötvál tárgyak ZH megoldókulcsai
